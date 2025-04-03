@@ -108,8 +108,8 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
-    background-size: 180px 180px;
+    background: url(img/torcida-do-corinthians-antes-de-jogo-contra-flamengo-faz-festa-com-mosaico-relativo-ao-aniversario-de-114-anos-do-clube-1725219928567_v2_1x1.jpg) bottom right no-repeat;
+    background-size: 180px -180px;
 }
 
 #contato {
@@ -203,8 +203,14 @@ h2 {
 
 }
 .nav-img{
-    width: 480px;
+    width: 580px;
 }
 .mb-3{
     width: 500px;
+}
+.corinthians{
+    right: 1;
+    top: 400px;
+    
+   
 }
